@@ -1,4 +1,4 @@
-# msc-project
+# viztool-with-dot-language-graph
 The tool visualizes parsed, queried data from the blockchain.info API to create tree graphs with
 simple presentation of addresses and relationships as vertices and edges that helps to reduce the
 literacy requirements in understanding the block chain that may have been proven to be a major
